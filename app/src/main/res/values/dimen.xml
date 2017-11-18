@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Caption and Title News attributes -->
+    <dimen name="clickSize">8sp</dimen>
+    <dimen name="sectionSize">16sp</dimen>
+    <dimen name="TitleSize">24sp</dimen>
+    <!-- Paddingsattributes -->
+    <dimen name="SmallPadding">2dp</dimen>
+    <dimen name="MediumPadding">16dp</dimen>
+    <dimen name="NewsHeight">32dp</dimen>
+    <dimen name="HalfWidth">16dp</dimen>
+    <dimen name="TitleHeight">8dp</dimen>
+    <dimen name="CaptionHeight">16dp</dimen>
+</resources>
